@@ -1,0 +1,29 @@
+1. Hello World
+
+sagnik@sagnik-HP-Notebook:~/Desktop/Java$  /usr/bin/env /usr/lib/jvm/java-8-openjdk-amd64/bin/java -cp /home/sagnik/.config/Code/User/workspaceStorage/713552f5d4b581095385387d14536f3f/redhat.java/jdt_ws/Java_264e7dec/bin HelloWorld 
+Hello World
+
+2.  Rectangle Area
+
+sagnik@sagnik-HP-Notebook:~/Desktop/Java$  cd /home/sagnik/Desktop/Java ; /usr/bin/env /usr/lib/jvm/java-8-openjdk-amd64/bin/java -cp /home/sagnik/.config/Code/User/workspaceStorage/713552f5d4b581095385387d14536f3f/redhat.java/jdt_ws/Java_264e7dec/bin RectangleArea 
+Input Length
+34
+Input Breadth
+34.67
+Area is: 1178.7799
+
+3.  Enhanced for
+
+sagnik@sagnik-HP-Notebook:~/Desktop/Java$  cd /home/sagnik/Desktop/Java ; /usr/bin/env /usr/lib/jvm/java-8-openjdk-amd64/bin/java -cp /home/sagnik/.config/Code/User/workspaceStorage/713552f5d4b581095385387d14536f3f/redhat.java/jdt_ws/Java_264e7dec/bin EnhancedFor 
+Sum is: 494
+
+4. Pattern
+
+sagnik@sagnik-HP-Notebook:~/Desktop/Java$  cd /home/sagnik/Desktop/Java ; /usr/bin/env /usr/lib/jvm/java-8-openjdk-amd64/bin/java -cp /home/sagnik/.config/Code/User/workspaceStorage/713552f5d4b581095385387d14536f3f/redhat.java/jdt_ws/Java_264e7dec/bin Pattern 
+*************
+ ***********
+  *********
+   *******
+    *****
+     ***
+      *
